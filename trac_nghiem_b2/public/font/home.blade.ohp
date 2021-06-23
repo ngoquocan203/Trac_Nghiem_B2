@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Trắc Nghiệm B2</title>
+	<link rel="stylesheet" type="text/css" href="style1.css">
+	<!-- CSS only -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+	<link rel="icon" type="image/gif" href="image/Logo1.png">
+</head>
+<body>
+		<div class="menu">
+			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+			  <div class="container-fluid" id="menu">
+			    <a href="home.html"><img src="image/Logo1.png" width="110px" height="100px"></a>
+			    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			      <span class="navbar-toggler-icon"></span>
+			    </button>
+			    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+			      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+			        <li class="nav-item">
+			          <a class="nav-link active" aria-current="page" href="home.html">Trang Chủ</a>
+			        </li>
+			        <li class="nav-item">
+			          <a class="nav-link active" aria-current="page" href="thithu.html">Thi Thử</a>
+			        </li>
+			        <li class="nav-item">
+			          <a class="nav-link active" aria-current="page" href="lythuyet.html">Lý Thuyết</a>
+			        </li>
+			        <li class="nav-item">
+			          <a class="nav-link active" aria-current="page" href="lienhe.html">Liên Hệ</a>
+			        </li>
+			      	 
+			      </ul>
+			      <form class="d-flex" >
+			        <input class="form-control me-2" type="search" placeholder="Tìm kiếm câu hỏi" aria-label="Search">
+			        <button class="btn btn-outline-success" type="submit">Search</button>
+			      </form>
+			      
+			    </div>
+			   
+			  </div>
+			</nav>
+		</div>
+	<div class="container" style="margin-top: 50px;">
+		<div class="row">
+			<div class="col-sm-6">
+				<img src="image/omnichannel.jpg">
+			</div>
+			<div class="col-sm-6">
+				<h2>Tại sao nên học bằng lái B2 ?</h2><br>
+				<p>Học lái xe ô tô B2 là nhu cầu trở nên phổ biến hơn bao giờ hết, bằng lái xe hạng B là loại giấy phép lái xe được sử dụng nhiều nhất với các tài xế vì tính tiện lợi, có thể lái được hầu hết các loại xe chở người thông dụng và xe tải loại nhỏ. Và việc học lái xe để có giấy phép lái xe loại này cũng không tốn quá nhiều thời gian. Thời gian học lái xe và thi sát hạch bằng lái chỉ mất khoảng 3 tháng.<p>
+				<p>Bạn nên học lái xe B2 vì khi đó bạn sẽ nắm vững kỹ thuật và rất dễ dàng làm chủ tay lái khi chuyển sang lái xe số tự động. Ngoài ra nếu bạn cần kinh doanh vận tải hoặc sau này muốn nâng bằng lên hạng C - D - E thì bạn phải học số sàn nhé.</p>
+				<p>Một yếu tố quan trọng nữa là học phí học lái xe hạng B2 rất thấp chỉ với 2.900k là bạn đã có thể đăng ký dự thi. Nếu học từ đầu trọn gói chỉ 4.900k rất phù hợp với điều kiện kinh tế của nhiều người.</p>
+			</div>
+		</div>
+		<div class="row" >
+			<div class="col-sm-6">
+				<h2>Cấu trúc đề thi thi lý thuyết lái xe ô tô B2 :</h2>
+				<p>•	Sẽ có tổng số 35 câu hỏi được lấy ngẫu nhiên từ bộ đề 600 câu</p>
+				<p>•	Thời gian làm bài: 22 phút.</p>
+				<p>•	Mỗi câu hỏi trong đề sát hạch có từ 02 đến 04 ý trả lời và chỉ có 01 ý trả lời đúng nhất.</p>
+				<p>•	Trong số các câu hỏi, có 01 câu trả lời sai (câu hỏi điểm liệt) sẽ bị truất quyền sát hạch. (Xem 60 câu hỏi điểm liệt)</p>
+				<p>•	Các câu còn lại, mỗi câu tính 01 điểm.</p>
+				<p>•	Kết thúc bài thi, thí sinh đạt 32/35 điểm trở lên và không sai câu hỏi điểm liệt là ĐẠT.</p>
+				<h4><a href="thithu.html" style="text-decoration: none;">Tổng hợp các đề thi</a></h4>
+			</div>
+			<div class="col-sm-6">
+				<img src="image/banner_menu7.jpg">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-6">
+				<img src="image/image1.jpg" width="620px" height="472px">
+			</div>
+			<div class="col-sm-6">
+				<h2>Điều khiện để được thi bằng B2:</h2><br>
+				<p>» Về độ tuổi: người dân đủ 18 tuổi trở lên (đủ ngày, tháng, năm).</p>
+				<p>» Về giấy tờ tùy thân: Có CMND hoặc Hộ Chiếu bản gốc còn thời hạn.</p>
+				<p>» Trình độ học vấn: không cần bằng cấp. Bắt buộc phải biết nghe, đọc, nói, viết tiếng việt Nam.</p>
+				<p>» Người có thị lực dưới 5/10 (thị lực được đo khi đeo kính).</p>
+				<p>» Người bị rối loạn tâm thần mãn tính.</p>
+				<p>» Người bị rối loạn về tâm thần cấp tính, hoặc đã chữa khỏi dưới 24 tháng.</p>
+				<p>» Người bị tật về mắt như quáng gà, bệnh chói lóa.</p>
+				<p>» Người bị khuyết tật cụt 2 ngón tay trở lên hoặc bị cụt 1 bàn chân trở lên.</p>
+				<p>» Người dương tính với các chất kích thích như ma túy, rượu bia.</p>
+			</div>
+		</div>
+		
+
+	</div>
+
+<div class="footer">
+	<div class="container">
+		<div class="row">		
+			<div class="col-sm-4">
+				<h2>Địa Chỉ</h2>
+				<p>Số 393A Giải Phóng – Thanh Xuân – Hà Nội</p>
+			</div>
+			<div class="col-sm-4">
+				<h2>Liên Hệ</h2>
+				<p>Số điện thoại:0993559999</p>
+				<p>Email:banglaib2@gmail.com</p>
+			</div>
+			<div class="col-sm-4">
+				<h2>Website</h2>
+				<p><a href="">» Trang Chủ</a></p>
+				<p><a href="">» Đề Thi</a></p>
+				<p><a href="">» Lý Thuyết</a></p>
+			</div>		
+		</div>
+	</div>
+	<div class="text-center p-3" style="background-color: black;color: white;">
+ 		© 2021 Copyright:<a class="text-white"  href="#"> TracnghiemB2.com</a>
+	</div>
+</div>
+
+
+	<!-- JavaScript Bundle with Popper -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+</body>
+
+</html>
